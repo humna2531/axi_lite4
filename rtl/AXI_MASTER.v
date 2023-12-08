@@ -1,4 +1,4 @@
-module master(
+module AXI_MASTER(
     // global signals
     input wire clk,
     input wire rst,
